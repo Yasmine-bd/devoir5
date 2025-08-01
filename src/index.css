@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+.container {
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+}
+.lang-switch {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
